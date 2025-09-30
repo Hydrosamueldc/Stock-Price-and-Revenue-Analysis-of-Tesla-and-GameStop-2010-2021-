@@ -50,7 +50,7 @@ The analysis covers stock data up to **2021**.
 The final visualization shows Tesla and GameStop stock price trends alongside revenue data.
 
 ### Tesla Stock and Revenue  
-![Tesla Graph](images/GameStop Stock.png)  
+![Tesla Graph](images/GameStop_Stock.png)  
 
 ### GameStop Stock and Revenue  
 ![GameStop Graph](images/gme_stock.png) 
