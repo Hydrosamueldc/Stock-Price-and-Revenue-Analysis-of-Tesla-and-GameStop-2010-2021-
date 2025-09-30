@@ -31,7 +31,7 @@ The analysis covers stock data up to **2021**.
 1. **Data Collection**
 
    * Used `yfinance` to download Tesla and GameStop stock data.
-   * Scraped revenue data from online tables using `requests` and `BeautifulSoup`.
+   * Scraped revenue data from online tables using `requests` and `BeautifulSoup` or  `pandas.read_html()`.
 
 2. **Data Cleaning**
 
@@ -48,7 +48,6 @@ The analysis covers stock data up to **2021**.
 ## Example Graph
 
 The final visualization shows Tesla and GameStop stock price trends alongside revenue data.
-*(Screenshot or code snippet of the Plotly graph can be added here.)*
 
 ## How to Run
 
